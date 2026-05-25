@@ -61,12 +61,18 @@ The software is used to write, compile, and upload code into the Arduino board f
 - Mobile application integration
 - Cloud-based accident monitoring system
 
+   ## Project Files
+- Code: main.ino  
+- Images: /images  
+- PPT: /ppt/Smart_Helmet_Safety_System_Presentation.pptx  
+- Report: /report/Smart_Helmet_Safety_System_Report.pdf
+
 ## Team Members
  - Prajwal Gowda J (Team Lead)
  -  Prajwal Gowda C
  - Surya Pratap 
  - Sanjay Kumar 
-
+  
 ##  License
 This project is licensed under the MIT License.
 
