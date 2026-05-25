@@ -37,5 +37,5 @@ digitalWrite(redLED, HIGH);
 digitalWrite(buzzerPin, HIGH); 
 digitalWrite(relayPin, LOW); 
 delay(500); // faster response for alcohol/helmet 
-} 
+ } 
 }
